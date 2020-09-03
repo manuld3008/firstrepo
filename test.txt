@@ -1,5 +1,3 @@
 welcome to git
 Another line
 git add
-git commit
-git push
